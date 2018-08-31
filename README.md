@@ -1,1 +1,1 @@
-# GAHackathon2
+# GreyAtom Hackathon 2
